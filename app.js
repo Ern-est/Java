@@ -15,5 +15,6 @@ console.log(mNames[e])
 
 
 
-}
+
 document.querySelector("form").addEventListener("submit",checkAkan);
+}
